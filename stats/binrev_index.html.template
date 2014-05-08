@@ -1,0 +1,20 @@
+<head>
+  <title>Binary Revolution IRC Server</title>
+  <style>
+    body {background-color: #000000; color: #00FF00;}
+  </style>
+</head>
+
+<body>
+  <center>
+    <pre><p>    _             __    _                                   __ 
+   (_)_________  / /_  (_)___  ________ _   __  ____  ___  / /_
+  / / ___/ ___/ / __ \/ / __ \/ ___/ _ \ | / / / __ \/ _ \/ __/
+ / / /  / /___ / /_/ / / / / / /  /  __/ |/ / / / / /  __/ /_  
+/_/_/   \___(_)_.___/_/_/ /_/_/   \___/|___(_)_/ /_/\___/\__/  
+
+    </p></pre>
+    <pre><p>Welcome to irc.binrev.net, the official <a href="http://www.binrev.com/">Binary Revolution</a> IRC server</p><pre>
+    <pre>There are currently NUM_USERS users online in NUM_CHANNELS channels.</pre>
+  </center>
+</body>
