@@ -1,6 +1,7 @@
 source 'https://rubygems.org'
 
 gem 'cinch'
+gem 'cinch_channel_list'
 
 group :test, :development do
   gem 'awesome_print'

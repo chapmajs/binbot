@@ -3,6 +3,8 @@ GEM
   specs:
     awesome_print (1.2.0)
     cinch (2.1.0)
+    cinch_channel_list (0.0.1)
+      cinch (~> 2.0)
     coderay (1.1.0)
     method_source (0.8.2)
     pry (0.9.12.6)
@@ -17,4 +19,5 @@ PLATFORMS
 DEPENDENCIES
   awesome_print
   cinch
+  cinch_channel_list
   pry

@@ -1,5 +1,5 @@
 require 'cinch'
-require_relative 'channel_list'
+require 'cinch_channel_list'
 require_relative 'string_helper'
 
 stats_bot = Cinch::Bot.new do
