@@ -15,6 +15,6 @@
 
     </p></pre>
     <pre><p>Welcome to irc.binrev.net, the official <a href="http://www.binrev.com/">Binary Revolution</a> IRC server</p><pre>
-    <pre>There are currently NUM_USERS users online in NUM_CHANNELS channels.</pre>
+    <pre><p>STATSTABLE<p></pre>
   </center>
 </body>
